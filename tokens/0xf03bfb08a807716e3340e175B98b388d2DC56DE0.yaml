@@ -1,0 +1,14 @@
+---
+addr: '0xf03bfb08a807716e3340e175B98b388d2DC56DE0'
+decimals: 18
+description: >-
+ The Neodium Network is a global decentralized patent ecosystem. Its technology simplifies the process of submitting patents and allows for the voice of the community to be heard through a consensus system. Patents will be stored on the blockchain, making them immutable and secure. Licensing patents will be done through smart contracts, ensuring that all parties meet the agreed upon terms.
+links:
+- Github: https://github.com/NeodiumNetwork/
+- Telegram: https://t.me/NeodiumNetwork/
+- Twitter: https://twitter.com/NeodiumNetwork/
+- Blog: https://medium.com/@NeodiumNetwork
+- Website: https://neodium.network/
+- Whitepaper: https://neodium.network/NeodiumWhitepaper.pdf
+name: Neodium Network
+symbol: NN
